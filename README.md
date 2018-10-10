@@ -32,8 +32,4 @@ pip3 install antolib
 
 pip3 install linepy
 
-pip3 install akad
-
-cd rakey1111
-
 python3 bedel.py
