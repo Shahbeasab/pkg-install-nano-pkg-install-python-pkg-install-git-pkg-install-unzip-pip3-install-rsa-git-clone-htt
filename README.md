@@ -8,7 +8,7 @@ pkg install pip3
 
 pkg install git
 
-git clone https://github.com/bedel1/rakey1111
+git clone https://github.com/Shahbeasab
 
 pkg install nano
 
@@ -32,4 +32,10 @@ pip3 install antolib
 
 pip3 install linepy
 
-python3 bedel.py
+pip3 install akad
+
+cd Shahbeasab
+
+python3 Shahbeasab.py
+
+the
